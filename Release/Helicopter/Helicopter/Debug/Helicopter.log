@@ -1,0 +1,5 @@
+﻿  Game.cpp
+C:\Users\C00301189\Desktop\AirWolf\Release\Helicopter\Helicopter\Game.cpp(122,6): warning C4101: 'last': unreferenced local variable
+  main.cpp
+  Generating Code...
+  Helicopter.vcxproj -> C:\Users\C00301189\Desktop\AirWolf\Release\Helicopter\Debug\Helicopter.exe
